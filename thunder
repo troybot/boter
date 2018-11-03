@@ -5,7 +5,10 @@ THIS_DIR=$(cd "$(dirname "$0")"; pwd)
 TDCLI='https://valtman.name/files/telegram-cli-1222'
 
 ## Print Colorful
-
+# Print text in red
+prtred() {
+  printf '\e[1;31m%s\n\e[0;39;49m' "$@"
+}
 # Print text in green
 prtgrn() {
   printf '\e[1;32m%s\n\e[0;39;49m' "$@"
