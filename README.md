@@ -12,7 +12,7 @@
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-🚸 ❯❯ git clone https://github.com/troybot/boter.git && cd MOJ && chmod +x tg && chmod +x MOJ.sh && ./MOJ.sh
+🚸 ❯❯ git clone https://github.com/troybot/boter.git && cd boter && chmod +x tg && chmod +x boter.sh && ./boter.sh
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
@@ -26,7 +26,7 @@ cd boter && screen -S -X ./boter.sh
 
 ♨❯❯ المطور @koora16
 
-📯❯❯ قناتنا @moj119
+📯❯❯ قناتنا @
 
  
 
